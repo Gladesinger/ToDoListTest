@@ -21,7 +21,7 @@ namespace ToDoList
 
             tasks.LoadFromFile();
             todolist_dataGridView.DataSource = tasks.MyTasksList;
-            //aiefnIWJBNGW
+            //aiefnIWJBNG
             
         }
 
