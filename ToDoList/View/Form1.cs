@@ -58,6 +58,7 @@ namespace ToDoList
                 currencyManager.ResumeBinding();
             }
             catch { }
+            //comment
         }
 
         private void todolist_dataGridView_CellValueChanged(object sender, DataGridViewCellEventArgs e)

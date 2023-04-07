@@ -22,7 +22,6 @@ namespace ToDoList.ViewModel
         public void Add(MyTask task)
         {
             MyTasksList.Add(task);
-            //asdasd
         }
 
         public void Clear()
